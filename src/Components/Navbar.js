@@ -5,10 +5,22 @@ class Navbar extends React.Component{
         return(
           <div className = "hello" >
                <div className="navWide">
-      <div className="wideDiv">
-          <a href="https://github.com/Quanluis">Github1</a>
+      <div className="navWide">
+          <li>
+              <a href="">Home</a>
+          </li>
+          <li>
+          <a href="https://github.com/Quanluis">Github</a>
+          </li>
+          <li >
           <a href="https://www.freecodecamp.org/quanluis">freecodecamp</a>
-          <a href="">Link 3</a>
+          </li>
+         <li>
+          <a  href="">About</a>
+          </li>
+          <li>
+              <a href="">Contact info</a>
+          </li> 
         </div>
         </div>
         </div>

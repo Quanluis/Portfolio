@@ -1,3 +1,24 @@
-.hello {
-  background-color: grey;
+body {
+  background-color: #363c42;
 }
+@media (min-width: 900px) {
+  .hello a {
+    color: white;
+    float: left;
+  }
+}
+li {
+  display: inline;
+  font-size: 30px;
+
+
+}
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 10px;
+  font-size: 20px;
+  color: MediumPurple;
+}
+
+
