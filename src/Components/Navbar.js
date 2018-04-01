@@ -19,7 +19,7 @@ class Navbar extends React.Component{
           <a  href="">About</a>
           </li>
           <li>
-              <a href="">Contact info</a>
+              <a href="">Contact</a>
           </li> 
         </div>
         </div>

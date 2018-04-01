@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import NavBar from './Components/Navbar'
-import Home from './Components/Home';
+import Contact from './Components/Contact';
 import './App.css';
 
 class App extends Component {
@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div>
         <NavBar />
-        <Home />
+        <Contact />
       </div>
     );
   }
