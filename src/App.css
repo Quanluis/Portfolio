@@ -1,16 +1,10 @@
 body {
   background-color: #363c42;
 }
-@media (min-width: 900px) {
-  .hello a {
-    color: white;
-    float: left;
-  }
-}
+
 li {
   display: inline;
   font-size: 30px;
-
 
 }
 a {
@@ -18,7 +12,14 @@ a {
   text-transform: uppercase;
   padding: 10px;
   font-size: 20px;
-  color: MediumPurple;
+  color: white;
+}
+.home {
+  font-size: 17px;
+  text-align: center;
+}
+p {
+  color: white;
 }
 
 
