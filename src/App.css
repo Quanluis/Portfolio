@@ -7,6 +7,12 @@ li {
   font-size: 30px;
  
 }
+img {
+  height: 48%;
+  width: 24%;
+  border-radius: 50px;
+}
+
 a {
   text-decoration: none;
   text-transform: uppercase;
