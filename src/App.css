@@ -5,12 +5,26 @@ body {
 li {
   display: inline;
   font-size: 30px;
- 
 }
 img {
+  height: 12%;
+  width: 6%
+
+}
+.react{
+  position: relative;
+  top: -10px;
+}
+
+.luis {
   height: 48%;
   width: 24%;
   border-radius: 50px;
+}
+.footer {
+  background-color: white;
+  text-align: center;
+  border-radius: 80px;
 }
 
 a {
