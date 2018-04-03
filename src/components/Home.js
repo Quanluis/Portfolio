@@ -6,7 +6,7 @@ class Home extends React.Component {
         return(
             <div className = 'header'>
                <br/>
-               <img className = 'luis' src={'https://avatars1.githubusercontent.com/u/35511948?s=400&u=263141ea319ac11c1b3af1e07743a3894a71803e&v=4'} alt = 'Not showing up' />
+               <img className = 'luis' src={require("../img/luis.jpg")} alt = 'Not showing up' />
                <h1>
                    Welcome
                </h1>
