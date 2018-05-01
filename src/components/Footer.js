@@ -13,7 +13,7 @@ class Footer extends React.Component {
         <li>
           <img
             className="reactImg"
-            src = {require('../img/reactrouter2.png')} 
+            src = {require('../img/reactrouter.png')} 
             alt="cannot display"
           />
         </li>
