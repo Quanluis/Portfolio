@@ -6,20 +6,20 @@ class Navbar extends React.Component {
     return (
       <div>
         <div className="navWide">
-          <div className="navWide">
-            <li>
+          <div>
+            <li className = "current">
               <Link to = '/' > Home </Link>
             </li>
-            <li>
+            <li className="current">
               <a href="https://github.com/Quanluis">Github</a>
             </li>
-            <li>
+            <li className="current">
               <a href="https://www.freecodecamp.org/quanluis">freecodecamp</a>
             </li>
-            <li>
+            <li className="current">
             <Link to = '/about' > About </Link>
             </li>
-            <li>
+            <li className="current">
             <Link to = '/contact' > Contact </Link>
             </li>
           </div>
