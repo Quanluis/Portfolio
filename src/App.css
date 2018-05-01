@@ -41,5 +41,9 @@ a {
 p {
   color: white;
 }
-
+.reactImg {
+ position: relative;
+ padding-bottom: 4px
+ 
+}
 
