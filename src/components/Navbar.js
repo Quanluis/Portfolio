@@ -14,7 +14,7 @@ class Navbar extends React.Component {
               <a href="https://github.com/Quanluis">Github</a>
             </li>
             <li className="current">
-              <a href="https://www.freecodecamp.org/quanluis">freecodecamp</a>
+              <a href="https://www.freecodecamp.org/portfolio/quanluis">freecodecamp</a>
             </li>
             <li className="current">
             <Link to = '/about' > About </Link>
