@@ -11,14 +11,11 @@ class About extends React.Component {
         </p>
         <h1>Story</h1>
         <p>
-          Luis was born in the coastal town of Macuto, Venezuela on the summer
-          of August 31 1996. <br /> Two years later he immigrated to the States
-          with his parents and had the privilege to become a citizen. <br /> He
-          grew up with a passion for Games, astronomy and science fiction which
-          later transitioned into technology <br /> and how it Works to create a
-          fun experience for the user. He now wishes to transition <br /> into
-          the tech field to prove his skills and grow not only himself but the
-          people around him.
+          Graduating from Gainesville dev academy as well as being first self taught has cause me to see the imporantance of knowing the practical side of programming as
+           well as the theory behind why.
+          Growing up with a passion for Games, Astronomy and science fiction have caused me to have a significant intrest in all forms of technology especially computers.
+          <br></br>
+         I hope we can work together in whatever ambition or product you need as well as bridging the gap for others to help them in their personal development education. 
         </p>
       </div>
     );

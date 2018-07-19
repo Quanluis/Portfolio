@@ -5,17 +5,13 @@ body {
 li {
   display: inline;
   font-size: 30px;
+  position: relative; 
 }
 img {
   height: 12%;
   width: 6%
 
 }
-.react{
-  position: relative;
-  top: -10px;
-}
-
 .luis {
   height: 48%;
   width: 24%;
@@ -40,4 +36,16 @@ a {
 }
 p {
   color: white;
+}
+.reactImg {
+ position: relative;
+ padding-bottom: 4px
+ 
+}
+.current :hover {
+color: black;
+width: 100%;
+top: 0;
+content: "";
+
 }
